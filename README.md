@@ -1,8 +1,8 @@
 ### Hi there 👋, my name is Abu Jaher
 #### Web Developer
-<a>
+
 <img src="https://i.ibb.co.com/m54XMtm/Web-developer.png" />
-</a>
+
 
 ## Assalamu Alaikum 👋
 *I'm Saif, a junior MERN stack developer from  Chattogram, Bangladesh.*
