@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Abu Jaher
 #### Web Developer
 
-<img src="https://i.ibb.co.com/m54XMtm/Web-developer.png" alt="banner">
+<img style={{ height: "200px", width: "200px" }} src="https://i.ibb.co.com/m54XMtm/Web-developer.png" alt="banner">
 
 
 ## Assalamu Alaikum 👋
