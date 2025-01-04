@@ -1,15 +1,24 @@
 ### Hi there 👋, my name is Abu Jaher
 #### Web Developer
-![Web Developer](https://i.ibb.co.com/m54XMtm/Web-developer.png)
+<a>
+<img src="https://i.ibb.co.com/m54XMtm/Web-developer.png" />
+</a>
 
-I am a junior MERN stack developer .I am skilled .
+## Assalamu Alaikum 👋
+*I'm Saif, a junior MERN stack developer from  Chattogram, Bangladesh.*
 
-Skills:  HTML / CSS/ JS / REACT / MongoDB /Firebase
-
-- 🔭 I’m currently working on this page. 
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/abujaher5)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/abu-jaher5/)  
+# About me
+- I’m currently working on a Full-Stack e-commerce website.
+- Exploring Tanstack query.
+- Looking to collaborate on real-world projects
+- I'm searching for a platform where I can learn and gain experience.
+- Fun fact: I am passionate about teaching and enjoy mentoring students through private tuition.
+  ## Technologies that I know
+</br>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,firebase,git,vercel,netlify,vite,mongodb,expressjs,react,nodejs" />
+  </a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abujaher5)](https://github.com/anuraghazra/github-readme-stats)
 
