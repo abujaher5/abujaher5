@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Abu Jaher
 #### Web Developer
 
-<img src="https://github.com/Mokkapps/mokkapps/blob/master/header.png" alt="Mokkapps GitHub README header image">
+<img src="https://i.ibb.co.com/m54XMtm/Web-developer.png" alt="banner">
 
 
 ## Assalamu Alaikum 👋
