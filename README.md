@@ -18,7 +18,7 @@
 </br>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,firebase,git,vercel,netlify,vite,mongodb,expressjs,react,nodejs" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,nodejs,expressjs,postgres,prisma,mongodb,firebase,git,vercel,netlify,vite,figma,postman,npm,pnpm,vscode,linux,ubuntu,gmail,notion" />
   </a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abujaher5)](https://github.com/anuraghazra/github-readme-stats)
