@@ -14,6 +14,9 @@
 - Looking to collaborate on real-world projects
 - I'm searching for a platform where I can learn and gain experience.
 - Fun fact: I am passionate about learning new technologies and enjoy to share that.
+
+![Profile Views](https://komarev.com/ghpvc/?username=abujaher5&style=for-the-badge&color=blue)
+  
   ## Technologies that I know
 </br>
 <p align="center">
@@ -21,9 +24,19 @@
     <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,nodejs,expressjs,postgres,prisma,mongodb,firebase,git,vercel,netlify,vite,figma,postman,npm,pnpm,vscode,linux,ubuntu,gmail,notion" />
   </a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abujaher5)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=abujaher5&show_icons=true)  
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=abujaher5&show_icons=true&theme=tokyonight" height="180" width="46%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=abujaher5&layout=compact&theme=tokyonight" height="180" width="46%" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=abujaher5&theme=tokyonight" />
+</p>
+
 
 ![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/abujaher5/contributions?format=svg&private=false)  
 
