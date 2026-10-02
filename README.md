@@ -9,7 +9,7 @@
 *I'm Abu Jaher, a junior MERN stack developer from  Chattogram, Bangladesh.*
 
 # About me
-- I’m currently exploring Node.js Tanstack query etc.
+- I’m currently exploring Node.js, Next.js, PostgreSQl etc.
 - Trying to make some projects.
 - Looking to collaborate on real-world projects
 - I'm searching for a platform where I can learn and gain experience.
